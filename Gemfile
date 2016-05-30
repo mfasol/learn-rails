@@ -15,6 +15,7 @@ group :development do
   gem 'spring'
 end
 gem 'foundation-rails', '~> 5.5'
+gem 'figaro'
 gem 'gibbon'
 gem 'high_voltage'
 gem 'simple_form'
